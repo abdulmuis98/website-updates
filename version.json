@@ -1,0 +1,15 @@
+{
+  "latestVersion": "1.3",
+  "releaseDate": "2026-10-15",
+  "minLicenseStatus": "ACTIVE",
+  "downloadUrl": "https://updates.amuisproject.com/releases/update-v1.3.zip",
+  "fileSizeFormatted": "4.3 MB",
+  "title": "Pembaruan Sistem v1.3 — Modul Lengkap & Optimasi",
+  "changelog": [
+    "Fitur Manajemen Akun Member & Password (CRUD, Show/Hide Password, Reset)",
+    "Dukungan Update Manual via Upload File ZIP & Cloud Auto-Update",
+    "Tutorial Interaktif Step-by-Step API Gateway (Fonnte, Meta, Resend, Midtrans)",
+    "Portofolio Developer Showcase & Direct Image Upload",
+    "Optimasi SEO, Schema.org JSON-LD, Dynamic Sitemap XML & Robots.txt"
+  ]
+}
